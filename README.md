@@ -13,6 +13,9 @@
 
 ## 目录
 
+
+- [我扒了半天源码，终于找到了Oauth2自定义处理结果的最佳方案！](https://github.com/lxlx704034204/springcloud-learning-1/tree/master/micro-oauth2)
+
 - [Spring Cloud 整体架构概览](https://juejin.im/post/5d764f05e51d4561fb04bfd7)
 - [Spring Cloud Eureka：服务注册与发现](https://juejin.im/post/5d78cd53f265da03d55e8351)
 - [Spring Cloud Ribbon：负载均衡的服务调用](https://juejin.im/post/5d7f9006f265da03951a260c)
